@@ -14,9 +14,13 @@
 - 💬 Ask me about: 
   - Climbing, Bouldering, Let's Climb? 🧗
   - Developing! As a student, I'm always open to what I don't know! 💻
-- 📫 How to reach me: ...
+  - A joke! I tend to know a few good ones! 🤣
+- 📫 How to reach me: <a href="http://www.linkedin.com/in/kevinorta15"><img
+  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><br><br>
 - ⚡ Fun fact: I have been on all continents except Antarctica! ❄️
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinorta15&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinorta15&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinorta15&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
