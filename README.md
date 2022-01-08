@@ -1,9 +1,9 @@
 <div align="center">
-### Hi there, I'm Kevin Orta. 👋
+<h1>Hi there, I'm Kevin Orta. 👋</h1>
 
-## I'm a Developer, Climber, and Reader!
+## I'm a Developer, Climber, and Mega Harry Potter Fan!
 
-
+<hr>
 
 Currently a student at Codeup in San Antonio, I am looking forward to making an impact at any company I am hired to! I prefer working on a team, where I can learn and grow from my fellow developers. I hope to one day be working alongside you!<br>
 <hr>
