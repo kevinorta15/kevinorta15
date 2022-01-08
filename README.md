@@ -3,7 +3,7 @@
 
 ## I'm a Developer, Climber, and Reader!
 
-<hr>
+
 
 Currently a student at Codeup in San Antonio, I am looking forward to making an impact at any company I am hired to! I prefer working on a team, where I can learn and grow from my fellow developers. I hope to one day be working alongside you!<br>
 <hr>
