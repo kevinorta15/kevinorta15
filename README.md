@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Kevin Orta. 👋
 
-<!--
-**kevinorta15/kevinorta15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer, Climber, and Reader!
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- Currently a student at Codeup in San Antonio, I am looking forward to making an impact at any company I am hired to! I prefer working on a team, where I can learn and grow from my fellow developers. I hope to one day be working alongside you! 
+
+[comment]: <> (**kevinorta15/kevinorta15** is a ✨ _special_ ✨ repository because its `README.md` &#40;this file&#41; appears on your GitHub profile.)
+
+- 🔭 I’m currently working on my final Capstone project, more info soon...
+- 🌱 I’m currently learning Spring, React & Node! 
+- 👯 I’m looking to collaborate with other developers on anything!
+- 💬 Ask me about: 
+  - Climbing, Bouldering, Let's Climb? 🧗
+  - Developing! As a student, I'm always open to what I don't know! 💻
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I have been on all continents except Antarctica! ❄️
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinorta15)](https://github.com/anuraghazra/github-readme-stats)
