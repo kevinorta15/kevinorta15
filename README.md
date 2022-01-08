@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hi there, I'm Kevin Orta. 👋</h1>
 
-## I'm a Developer, Climber, and Mega Harry Potter Fan!
+## I'm a Developer, Climber, and Mega Harry Potter Fan! ⚡️🪄
 
 <hr>
 
