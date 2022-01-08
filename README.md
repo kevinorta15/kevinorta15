@@ -13,6 +13,7 @@ Currently a student at Codeup in San Antonio, I am looking forward to making an 
 🔭 I’m currently working on my final Capstone project, more info soon...<br>
 🌱 I’m currently learning Spring, React & Node!<br> 
 👯 I’m looking to collaborate with other developers on anything!<br>
+<br>
 💬 Ask me about:<br>  
 Climbing, Bouldering, Let's Climb? 🧗<br>
 Developing! As a student, I'm always open to what I don't know! 💻<br>
