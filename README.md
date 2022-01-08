@@ -16,7 +16,7 @@
   - Developing! As a student, I'm always open to what I don't know! 💻
   - A joke! I tend to know a few good ones! 🤣
 - 📫 How to reach me: 
-- <a href="http://www.linkedin.com/in/kevinorta15"><img
+   <a href="http://www.linkedin.com/in/kevinorta15"><img
   src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><br><br>
 - ⚡ Fun fact: I have been on all continents except Antarctica! ❄️
 
