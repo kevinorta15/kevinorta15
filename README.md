@@ -1,6 +1,7 @@
 <div align="center">
 <h1>Hi there, I'm Kevin Orta. 👋</h1>
 
+[comment]: <> (<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>)
 ## I'm a Developer, Climber, and Mega Harry Potter Fan! ⚡️🪄
 
 <hr>
