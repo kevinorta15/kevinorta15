@@ -14,7 +14,7 @@ Currently a student at Codeup in San Antonio, I am looking forward to making an 
 🌱 I’m currently learning Spring, React & Node!<br> 
 👯 I’m looking to collaborate with other developers on anything!<br>
 <br>
-💬 Ask me about:<br>  
+💬 Ask me about: 
 Climbing, Bouldering, Let's Climb? 🧗<br>
 Developing! As a student, I'm always open to what I don't know! 💻<br>
 A joke! I tend to know a few good ones! 🤣<br>
