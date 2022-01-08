@@ -19,8 +19,11 @@ Climbing, Bouldering, Let's Climb? 🧗<br>
 Developing! As a student, I'm always open to what I don't know! 💻<br>
 A joke! I tend to know a few good ones! 🤣<br>
 📫 How to reach me:<br> 
-<a href="http://www.linkedin.com/in/kevinorta15"><img
-    src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="kevinorta15" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/kevinorta15?trk=profile-badge">Kevin Orta</a></div>
+
+[comment]: <> (<a href="http://www.linkedin.com/in/kevinorta15"><img)
+
+[comment]: <> (    src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><br>)
 ⚡ Fun fact: I have been on all continents except Antarctica! ❄️
 
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinorta15&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
